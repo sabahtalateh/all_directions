@@ -1,0 +1,19 @@
+{
+  "name": "sabahtalateh/avg_path",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Sabaka Dog",
+      "email": "sabahtalathe@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "phpunit/phpunit": "^7.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
